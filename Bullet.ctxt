@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Bullet
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkCollision()
+comment2.text=\r\n\ Checks\ if\ bullet\ is\ touching\ edge\ of\ world\ or\ \r\n
+numComments=3
